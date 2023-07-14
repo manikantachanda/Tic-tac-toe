@@ -1,0 +1,31 @@
+body {
+    background-color: #d1e7f7;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.main-box {
+    height: 600px;
+    width: 600px;
+    margin: auto;
+}
+
+.box {
+    height: 195px;
+    width: 195px;
+    background-color: rgb(237, 208, 130);
+    display: inline-block;
+    /* Set display property to inline-block */
+    vertical-align: top;
+}
+
+.xelement {
+    font-size: 70px;
+}
+
+.oelement {
+    font-size: 90px;
+}
